@@ -2,15 +2,6 @@
 
 This repository contains a collection of scripts focused on accessing and building APIs using Python. Each section includes practical examples, resources, and step-by-step guides to help you master the techniques of API integration and development.
 
-## Getting the API Key
-
-In this section, you will access various APIs with Python and even create your own API. We will start by accessing News API. To be able to follow me, you need to get a free News API key by following the steps below:
-
-1. Go to [News API](https://newsapi.org/).
-2. On the website, click on the **Get API Key** button in the top right corner.
-
-3. The above will take you to a web form. Fill in the form and press submit. The next page will show the API key. Python will need that API key to access news articles.
-
 ## Contents
 
 1. **Getting the API Key**
@@ -22,6 +13,15 @@ In this section, you will access various APIs with Python and even create your o
 7. **Create Your Own Currency Rate REST API**
 8. **Official Facebook Graph API**
 9. **Grammar Correction API**
+
+## Getting the API Key
+
+In this section, you will access various APIs with Python and even create your own API. We will start by accessing News API. To be able to follow me, you need to get a free News API key by following the steps below:
+
+1. Go to [News API](https://newsapi.org/).
+2. On the website, click on the **Get API Key** button in the top right corner.
+
+3. The above will take you to a web form. Fill in the form and press submit. The next page will show the API key. Python will need that API key to access news articles.
 
 ## Features
 
