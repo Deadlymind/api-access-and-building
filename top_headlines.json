@@ -1,0 +1,457 @@
+[
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Chobani Yogurt Founder Buys Anchor Brewing Company - The New York Times",
+        "description": null,
+        "url": "https://families.google.com/service-restricted",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T20:38:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Indexes are a mixed bag as investors weigh inflation data - Yahoo Finance",
+        "description": null,
+        "url": "https://finance.yahoo.com/news/futures-slip-investors-brace-inflation-103240200.html",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T20:00:39Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Associated Press",
+        "title": "Trump responds to guilty verdict by falsely blasting 'rigged trial' - The Associated Press",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLTIwMjQtY2FtcGFpZ24tdHJpYWwtNDYyOTg0MDI0MGNiMzA4YzVlYWUzMzU1MzJhZDE3ZWTSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T19:54:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Emily Shapiro",
+        "title": "Kids of Connecticut mom Jennifer Dulos give emotional statements; Michelle Troconis gets 14.5 years - ABC News",
+        "description": "Troconis was found guilty of charges including conspiracy to commit murder.",
+        "url": "https://abcnews.go.com/US/michelle-troconis-sentenced-case-missing-connecticut-mom-jennifer/story?id=110504388",
+        "urlToImage": "https://i.abcnewsfe.com/a/33e7d1bf-80ac-4049-8bc0-b8461710e724/michelle-troconis-1-ht-bb-240531_1717166726349_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-05-31T19:28:51Z",
+        "content": "Michelle Troconis, who was convicted of helping her boyfriend, Fotis Dulos, cover up the murder of his estranged wife, Jennifer Dulos, was sentenced Friday to 20 years in prison, with execution suspe\u2026 [+10263 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "NBC News",
+        "title": "Olympic gold medalist wrestler Gable Steveson signing with Buffalo Bills - NBC News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvc3BvcnRzL29seW1waWMtZ29sZC1tZWRhbGlzdC13cmVzdGxlci1nYWJsZS1zdGV2ZXNvbi1zaWduaW5nLWJ1ZmZhbG8tYmlsbHMtcmNuYTE1NDk1NtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNTQ5NTY?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T19:24:34Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Lauryn Overhultz",
+        "title": "Brad Pitt, Angelina Jolie's daughter files to drop Pitt from legal last name on 18th birthday - Fox News",
+        "description": "Brad Pitt's daughter, Shiloh, reportedly filed to drop Pitt from her legal last name in paperwork filed on her 18th birthday. Pitt shares six children with ex-wife Angelina Jolie.",
+        "url": "https://www.foxnews.com/entertainment/brad-pitt-angelina-jolies-daughter-files-drop-pitt-from-legal-last-name-18th-birthday",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Brad_Pitt_Angelina_Jolie.jpg",
+        "publishedAt": "2024-05-31T18:59:00Z",
+        "content": "Brad Pitt and Angelina Jolie's daughter Shiloh reportedly filed paperwork dropping Pitt from her legal last name on her 18th birthday.\r\nShiloh Jolie-Pitt requested the legal name change in documents \u2026 [+2965 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": null,
+        "title": "Jennifer Lopez Cancels Summer Tour - Variety",
+        "description": null,
+        "url": "https://variety.com/2024/music/news/jennifer-lopez-cancels-tour-1236021391/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T18:51:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "POLITICO",
+        "title": "'War has found them': Biden's Ukraine gamble sets a new course - POLITICO",
+        "description": null,
+        "url": "https://www.politico.com/news/2024/05/31/biden-ukraine-war-russia-00160991",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T18:49:02Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Steve Almasy, Taylor Romine",
+        "title": "Idaho jurors weighing death penalty hear contrasting portraits of Chad Daybell after finding him guilty of 3 murders - CNN",
+        "description": "A day after delivering a guilty verdict in Chad Daybell\u2019s murder trial, an Idaho jury weighing whether he will face the death penalty on Friday heard contrasting portraits of the man.",
+        "url": "https://www.cnn.com/2024/05/31/us/chad-daybell-sentencing-death-penalty-decision/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24151751257867.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-05-31T18:22:00Z",
+        "content": "A day after delivering a guilty verdict in Chad Daybells murder trial, an Idaho jury weighing whether he will face the death penalty on Friday heard contrasting portraits of the man.\r\nDaybell was con\u2026 [+7076 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "NASA\u2019s Boeing Starliner Crew Flight Test Prelaunch News Conference (May 31, 2024) - NASA Video",
+        "description": "Experts discuss ahead of Boeing\u2019s Starliner Crew Flight Test, which will carry NASA astronauts Butch Wilmore and Suni Williams to and from the International ...",
+        "url": "https://www.youtube.com/watch?v=08_bUsPwi8I",
+        "urlToImage": "https://i.ytimg.com/vi/08_bUsPwi8I/maxresdefault.jpg",
+        "publishedAt": "2024-05-31T18:04:45Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "KATHY MCCORMACK Associated Press",
+        "title": "Police arrest 80 at Israel-Hamas war protest at UC Santa Cruz, school says - ABC News",
+        "description": "A spokesperson for the University of California, Santa Cruz, says approximately 80 people have been arrested at a pro-Palestinian demonstration that has been blocking the main campus entrance for days",
+        "url": "https://abcnews.go.com/US/wireStory/police-batons-approach-israel-hamas-war-protesters-uc-110707626",
+        "urlToImage": "https://i.abcnewsfe.com/a/c09bba41-91a6-4465-b072-9f1c803672b4/wirestory_c635922c49a91e0c9d7c918ff07ce007_16x9.jpg?w=1600",
+        "publishedAt": "2024-05-31T18:00:00Z",
+        "content": "Police in riot gear surrounded arm-in-arm protesters Friday at the University of California, Santa Cruz, to remove an encampment and barricades where pro-Palestinian demonstrations have blocked the m\u2026 [+4597 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Gabrielle Fonrouge, Melissa Repko",
+        "title": "It was a strong week for retail earnings. That doesn\u2019t spell a consumer comeback - CNBC",
+        "description": "Gap profits were 9 times higher and Foot Locker beat estimates \u2014 unlikely winners in Q1 retail earnings. But, this says more about the companies than consumers.",
+        "url": "https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107231013-1682460626637-gettyimages-1485201295-mt_23201_kgllqfog.jpeg?v=1709644936&w=1920&h=1080",
+        "publishedAt": "2024-05-31T17:19:49Z",
+        "content": "Retail's biggest winners during first-quarter earnings aren't thriving because consumers are suddenly spending more on discretionary goods it's because they're executing well and cash-strapped shoppe\u2026 [+8086 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CBS News",
+        "title": "Yemen's Houthis threaten escalation after American strike using 5,000-pound bunker-buster bomb - CBS News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MveWVtZW4taG91dGhpLXRocmVhdC1yZWQtc2VhLXVzLXVrLXN0cmlrZS01MDAwLXBvdW5kLWJ1bmtlci1idXN0ZXItYm9tYi_SAWhodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy95ZW1lbi1ob3V0aGktdGhyZWF0LXJlZC1zZWEtdXMtdWstc3RyaWtlLTUwMDAtcG91bmQtYnVua2VyLWJ1c3Rlci1ib21iLw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T17:04:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "LISA MASCARO, KEVIN FREKING, LEAH WILLINGHAM",
+        "title": "Democratic Sen. Joe Manchin of West Virginia registers as independent, citing 'partisan extremism' - The Associated Press",
+        "description": "Democratic Sen. Joe Manchin of West Virginia has announced he has switched his registration to independent. The move on Friday raises questions about his political plans since it could help his chances should he seek elected office again in a state that has t\u2026",
+        "url": "https://apnews.com/article/joe-manchin-congress-west-virginia-senate-a4eb66f2cb773f822b6b607945cdeaef",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a9b73a6/2147483647/strip/true/crop/4866x2737+0+253/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F60%2Ff111a3d2416e0d8eeab623e2dcf6%2F13f54bbaea854380ab24df4529ba70c5",
+        "publishedAt": "2024-05-31T17:03:00Z",
+        "content": "WASHINGTON (AP) Democratic Sen. Joe Manchin of West Virginia announced Friday he has switched his registration to independent, raising questions about his political plans since the move could help hi\u2026 [+4953 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Sara Moniuszko",
+        "title": "Mediterranean diet associated with 23% reduction in mortality, study finds - CBS News",
+        "description": "The Mediterranean diet has long been regarded as a heart-healthy option, but a new study has found the diet may help reduce risk of death.",
+        "url": "https://www.cbsnews.com/news/mediterranean-diet-reduces-mortality-study/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/30/ea8957c4-e0ae-4b26-a5e3-466ba192ad7d/thumbnail/1200x630/21d73f66d1a4e277df6288954d684d7c/gettyimages-1301412050.jpg?v=d7bbca61a2ddd34e0cfc8fb46aec1df3",
+        "publishedAt": "2024-05-31T15:15:00Z",
+        "content": "The Mediterranean diet has long been regarded as a heart-healthy option, but a new study has found the diet may help lower the risk of death.\r\nFor the study, published in JAMA Network Open Friday, re\u2026 [+2149 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino",
+        "title": "FDA approves Moderna's RSV vaccine for seniors, the company's second-ever product - CNBC",
+        "description": "The decision is a win for Moderna, which needs another revenue source amid plunging demand for its Covid vaccine, its only commercially available product.",
+        "url": "https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107422694-1717169513299-mRESVIA_US_packshot_Both.jpg?v=1717169601&w=1920&h=1080",
+        "publishedAt": "2024-05-31T15:09:29Z",
+        "content": "The Food and Drug Administration on Friday approved Moderna's vaccine for respiratory syncytial virus for adults ages 60 and above, the company's second-ever product to enter the U.S. market.\u00a0\r\nThe d\u2026 [+3722 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Futurism"
+        },
+        "author": "Victor Tangermann",
+        "title": "Google Admits Its AI Search Feature Is a Dumpster Fire, Says It Will Scale Back the Tool - Futurism",
+        "description": "Google has released a statement, admitting that \"some odd, inaccurate or unhelpful AI Overviews certainly did show up.\"",
+        "url": "https://futurism.com/the-byte/google-admits-ai-search-feature-dumpster-fire",
+        "urlToImage": "https://wp-assets.futurism.com/2024/05/google-admits-ai-search-dumpster-fire.jpg",
+        "publishedAt": "2024-05-31T14:39:43Z",
+        "content": "\"Some odd, inaccurate or unhelpful AI Overviews certainly did show up.\"\r\nSearch Engine Hallucination\r\nGoogle is at least partially admitting that its AI Overviews search feature is a hot mess.\r\nThe c\u2026 [+2448 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Texas Tribune"
+        },
+        "author": "By Eleanor Klibanoff",
+        "title": "Texas Supreme Court rejects abortion challenge - The Texas Tribune",
+        "description": "The court ruled against 20 women who said they were denied medically necessary abortions, saying the medical exceptions in the law were broad enough.",
+        "url": "https://www.texastribune.org/2024/05/31/texas-supreme-court-zurawski-abortion/",
+        "urlToImage": "https://thumbnails.texastribune.org/rn6w5d7HqovWMdDyolMeRWHhj4M=/1200x630/filters:quality(95):focal(3x0:2997x1737)/static.texastribune.org/media/files/ee1730abcbeb29f6d95d8c0f25055962/0719%20Abortion%20Hearing%20Presser%20JT%2009%20TT.jpg",
+        "publishedAt": "2024-05-31T14:26:34Z",
+        "content": "Were testing using AI-powered tools to provide an audio version of this story. While this audio recording is machine-generated, the story was written by human journalists. Read more on our AI policy.\u2026 [+13201 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Anusuya Lahiri",
+        "title": "OpenAI's Apple Deal Sparks Concerns In Microsoft, Could Shift AI Market Dynamics - Yahoo Finance",
+        "description": "Microsoft Corp (NASDAQ:MSFT) is concerned about some of OpenAI\u2019s business dealings, particularly a potential agreement between OpenAI and Apple Inc...",
+        "url": "https://finance.yahoo.com/news/openais-apple-deal-sparks-concerns-142258074.html",
+        "urlToImage": "https://media.zenfs.com/en/Benzinga/e8a4966c4cff053ded421e1199dab1f6",
+        "publishedAt": "2024-05-31T14:22:58Z",
+        "content": "OpenAI's Apple Deal Sparks Concerns In Microsoft, Could Shift AI Market Dynamics\r\nMicrosoft Corp (NASDAQ:MSFT) is concerned about some of OpenAIs business dealings, particularly a potential agreement\u2026 [+2486 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "MMA Junkie",
+        "title": "UFC 302 weigh-in results: One fighter misses, but Makhachev and Poirier set for headliner - MMA Junkie",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vbW1hanVua2llLnVzYXRvZGF5LmNvbS8yMDI0LzA1L3VmYy0zMDItaXNsYW0tbWFraGFjaGV2LXZzLWR1c3Rpbi1wb2lyaWVyLW5ld2Fyay13ZWlnaC1pbi1yZXN1bHRzLWxpdmUtdmlkZW8tc3RyZWFt0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T14:20:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Why Isaiah Hartenstein could be the best big man available on the market - Yahoo Sports",
+        "description": null,
+        "url": "https://sports.yahoo.com/why-isaiah-hartenstein-could-be-the-best-big-man-available-on-the-market-134657059.html",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T13:46:58Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Livenowfox.com"
+        },
+        "author": "FOX TV Stations",
+        "title": "Northern lights could return to US with another geomagnetic storm - LiveNOW from FOX",
+        "description": "NOAA has issued another geomagnetic storm watch through this weekend.",
+        "url": "https://www.livenowfox.com/news/geomagnetic-storm-watch-northern-lights-june-2024",
+        "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/05/1280/720/GettyImages-2152138690.jpg?ve=1&tl=1",
+        "publishedAt": "2024-05-31T13:36:42Z",
+        "content": "The sunspots that brought breathtaking Northern Lights to much of the U.S. earlier in May are back, which could mean more solar storms and the possibility of another aurora borealis spectacle.\u00a0\r\nNOAA\u2026 [+2797 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "BBC.com",
+        "title": "Israel-Gaza: Biden unveils Israeli proposal to end Gaza war - BBC.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzg4NjBnbjFud2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c4ODYwZ24xbndvLmFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-31T13:33:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GMA"
+        },
+        "author": "GMA Team",
+        "title": "Co-worker of slain \u2018General Hospital\u2019 actor speaks out: \u2018Felt completely helpless\u2019 - Good Morning America",
+        "description": "Anita Joy, a co-worker and friend of the late actor Johnny Wactor, recalls his final moments after he was shot and killed on May 25.",
+        "url": "https://goodmorningamerica.com/news/story/johnny-wactors-worker-friend-recounts-final-moments-110707377",
+        "urlToImage": "https://s.abcnews.com/images/GMA/interview-abc-ml-240531_1717155469840_hpMain_16x9_992.jpg",
+        "publishedAt": "2024-05-31T13:10:53Z",
+        "content": "The co-worker and friend who was with Johnny Wactor when the former \"General Hospital\" actor was shot and killed is speaking for the first time about the tragic night.\r\nAnita Joy sat down with \"Good \u2026 [+2675 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "POLITICO.eu"
+        },
+        "author": "Victor Goury-Laffont",
+        "title": "France U-turns on inviting Russia to D-Day memorial ceremony - POLITICO Europe",
+        "description": "The prospect of a Russian presence at the Normandy commemorations drew concern from Western allies.",
+        "url": "https://www.politico.eu/article/france-u-turn-invite-russia-d-day-memorial-ceremony/",
+        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/31/GettyImages-2147851267.jpg",
+        "publishedAt": "2024-05-31T12:50:00Z",
+        "content": "Putin took part in commemorations for the 60th D-Day anniversary in 2004, and again 10 years later for the 70th anniversary, shortly after he illegally annexed Crimea.\r\nRussia\u2019s past presence at D-Da\u2026 [+991 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Richard Pollina",
+        "title": "Minneapolis 'hero' cop Jamal Mitchell gunned down while trying to help mass shooting suspect, who was pretending to be a victim - New York Post ",
+        "description": "\u201cOfficer Jamal Mitchell was a father, a son, a fianc\u00e9, and a beloved member of our Minneapolis Police Department. Today, he made the ultimate sacrifice to protect and save the lives of others\u2026",
+        "url": "https://nypost.com/2024/05/31/us-news/jamal-mitchell-identified-as-minneapolis-cop-gunned-down-by-man-pretending-to-be-hurt/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/Slain-cop2.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-05-31T12:16:45Z",
+        "content": "The Minneapolis police officer gunned down in an ambush-style attack tried to help the suspect who initially pretended to be a victim in need of medical assistance during Thursdays mass shooting, acc\u2026 [+4784 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Brenda Goodman",
+        "title": "Third person in US tests positive for bird flu in connection to outbreak in dairy cattle - CNN",
+        "description": "A\u00a0third person in the US\u00a0has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the\u00a0Michigan Department of Health and Human Services\u00a0said Thursday.\u00a0This is the second human case reported in the state and the fourth ever in t\u2026",
+        "url": "https://www.cnn.com/2024/05/30/health/bird-flu-michigan-third-human-case/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24143659716467.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-05-31T12:13:00Z",
+        "content": "A\u00a0third person in the US\u00a0has tested positive for H5 bird flu in connection to an ongoing outbreak in dairy cattle, the\u00a0Michigan Department of Health and Human Services\u00a0said Thursday.\u00a0This is the seco\u2026 [+6152 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "13newsnow.com WVEC"
+        },
+        "author": "Patriceia Beckford",
+        "title": "Why are flags at half-staff on Friday in Virginia? - 13newsnow.com WVEC",
+        "description": "Gov. Glenn Youngkin issued that the flags of the United States be flown at half-staff on all state and local buildings and grounds of the Commonwealth on Thursday.",
+        "url": "https://www.13newsnow.com/article/news/local/mycity/virginia-beach/why-are-flags-at-half-mast-friday-virginia/291-f9b6c13c-31e0-47b4-83f9-84245c8f7e70",
+        "urlToImage": "https://media.13newsnow.com/assets/WVEC/images/bffd2a79-0b67-442c-b243-b4711b649d2c/bffd2a79-0b67-442c-b243-b4711b649d2c_1140x641.jpg",
+        "publishedAt": "2024-05-31T11:23:00Z",
+        "content": "VIRGINIA BEACH, Va. You may be wondering why flags are flying at half-staff on Friday. The flag order from Youngkin is in remembrance of the deadly mass shooting at the Virginia Beach Municipal Cente\u2026 [+553 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Brian Lowry",
+        "title": "\u2018Jim Henson: Idea Man\u2019 celebrates the Muppets mastermind without shying away from the hand behind them - CNN",
+        "description": "\u201cJim Henson: Idea Man\u201d threads a difficult needle, celebrating the creative genius of the Muppets mastermind without sidestepping the thornier aspects of his personal life.",
+        "url": "https://www.cnn.com/2024/05/31/entertainment/jim-henson-idea-man-documentary-review/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240425093105-jim-henson-idea-man-documentary.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-05-31T11:00:00Z",
+        "content": "Jim Henson: Idea Man threads a difficult needle, celebrating the creative genius of the Muppets mastermind without sidestepping or whitewashing the thornier aspects of his personal life, as related b\u2026 [+2390 chars]"
+    },
+    {
+        "source": {
+            "id": "ign",
+            "name": "IGN"
+        },
+        "author": "Wesley Yin-Poole",
+        "title": "Call of Duty Cheat Maker Defiant in Aftermath of Court Ruling, Vows to Continue Releasing Modern Warfare 3 and Warzone Cheats - IGN",
+        "description": "The high-profile video game cheat maker recently ordered to pay Activision millions of dollars in damages in a court ruling has vowed to continue to release cheats for Call of Duty.",
+        "url": "https://www.ign.com/articles/call-of-duty-cheat-maker-defiant-in-aftermath-of-court-ruling-vows-to-continue-releasing-modern-warfare-3-and-warzone-cheats",
+        "urlToImage": "https://assets-prd.ignimgs.com/2024/05/31/cod-1717151928846.jpg?width=1280",
+        "publishedAt": "2024-05-31T10:52:52Z",
+        "content": "The high-profile video game cheat maker recently ordered to pay Activision millions of dollars in damages in a court ruling has vowed to continue to release cheats for Call of Duty.\r\nThis week, the U\u2026 [+2939 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Hugh Langley, Lara O'Reilly",
+        "title": "A Massive Leak Google Search Documents Sparks SEO Industry Fury - Business Insider",
+        "description": "How Google organizes the web has been one of the greatest unsolved mysteries of the internet. The black box was finally opened this week.",
+        "url": "https://www.businessinsider.com/google-search-documents-seo-leak-ranking-2024-5",
+        "urlToImage": "https://i.insider.com/6658de63cc442a2f676c6ca1?width=1200&format=jpeg",
+        "publishedAt": "2024-05-31T09:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Maria Godoy",
+        "title": "Why are girls hitting puberty early? : Shots - Health News - NPR",
+        "description": "Girls in the U.S. are getting their first menstrual period about 6 months earlier on average than they did in the 1950s and \u201860s. And the number of girls starting their period before age nine has doubled. Researchers say parents can help prepare their kids fo\u2026",
+        "url": "https://www.npr.org/sections/shots-health-news/2024/05/31/nx-s1-4985074/girls-are-getting-their-first-periods-earlier-heres-what-parents-should-know",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F51%2Fb96439f248178d189a9f8646eed2%2Fgettyimages-1152656364.jpg",
+        "publishedAt": "2024-05-31T09:00:00Z",
+        "content": "Girls in the U.S. are getting their first menstrual period about 6 months earlier on average than they did in the 1950s and 60s. And more girls are beginning menstruation before the age of 9, which i\u2026 [+4494 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Chris Mason: Starmer left-wing purge row is not dying down - BBC.com",
+        "description": "The Labour leader is facing a backlash over claims he is freezing out left-wing election candidates.",
+        "url": "https://www.bbc.com/news/articles/cv22n56e3z6o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fe56/live/e03a8240-1e81-11ef-a13a-0b8c563da930.jpg",
+        "publishedAt": "2024-05-31T08:21:48Z",
+        "content": "Chris Mason,Political editor, @ChrisMasonBBC\r\nSir Keir Starmer has been accused of carrying out a purge of left-wing candidates ahead of the selection deadline for the general election. \r\nThe Labour \u2026 [+4321 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Moderna Stock Seesaws After Confirming U.S. Could Bankroll Its Bird Flu Vaccine - Investor's Business Daily",
+        "description": "The company expects to have data soon from its Phase 1 and Phase 2 study of a bird flu vaccine.",
+        "url": "https://www.investors.com/news/technology/moderna-stock-bird-flu-vaccine/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/12/Stock-moderna-12-adobe.jpg",
+        "publishedAt": "2024-05-30T20:03:00Z",
+        "content": "Moderna (MRNA) stock seesawed Thursday after confirming the U.S. government is nearing a deal to fund its messenger-RNA-based pandemic bird flu vaccine.\r\nXThe news comes amid growing concerns about t\u2026 [+2651 chars]"
+    }
+]
