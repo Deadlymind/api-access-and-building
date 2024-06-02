@@ -8,7 +8,7 @@ This repository contains a collection of scripts focused on accessing and buildi
 2. **REST APIs and Python**
 3. **Getting News from the Open News API**
 4. **News API: Getting Top Headlines for Any Country**
-5. **Solution: Weather Forecast API**
+5. **Weather Forecast API**
 6. **Create Your Own Currency Rate REST API**
 7. **Official Facebook Graph API**
 8. **Grammar Correction API**
